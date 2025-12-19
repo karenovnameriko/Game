@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CBDFBD3F-FDBF-4663-B22B-9905968CC62F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game/MainWindow.axaml.cs">
+    <Files>
+      <File FileName="Game/MainWindow.axaml.cs" Line="74" Column="14" />
+      <File FileName="Game/MainWindow.axaml" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game" expanded="True">
+            <Node name="Game" expanded="True">
+              <Node name="MainWindow.axaml" expanded="True">
+                <Node name="MainWindow.axaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
